@@ -1,6 +1,6 @@
 #include "framework.h"
 #include "ui_framework.h"
-
+//测试
 
 FrameWork::FrameWork(QWidget *parent) :
     MouseEvent(parent),
