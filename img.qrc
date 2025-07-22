@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/close/closeHover.png</file>
+        <file>resource/close/closeNormal.png</file>
+        <file>resource/close/closePressed.png</file>
+        <file>resource/max/maxHover.png</file>
+        <file>resource/max/maxNormal.png</file>
+        <file>resource/max/maxPressed.png</file>
+        <file>resource/min/minHover.png</file>
+        <file>resource/min/minNormal.png</file>
+        <file>resource/min/minPressed.png</file>
+    </qresource>
+</RCC>
